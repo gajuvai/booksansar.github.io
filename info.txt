@@ -1,0 +1,16 @@
+Basically, the BookSansar website is an e-commerce website for books made in PHP language with a database which is also attached to the email.
+
+it has two modules
+
+1) booksansar/index.php
+   
+here user view window is made similar to another e-commerce site it has a login register a user and a cart books and payment option but payment by only cash.
+
+2) booksanasr/admin/index.php
+
+this is a simple dashboard for managing books and their category by admin. It has a first login page where users must be login by their password and username.
+
+username: admin@booksansar.com
+password: booksansar
+
+(i.e, see on database table also).
